@@ -1,7 +1,7 @@
 # HR-Dashboard
 
-![image](https://raw.githubusercontent.com/malindard/hr-dashboard/HR-Employee-Report-1.png)
-![image](https://raw.githubusercontent.com/malindard/hr-dashboard/HR-Employee-Report-2.png)
+![image](https://raw.githubusercontent.com/malindard/hr-dashboard/main/HR-Employee-Report-1.png)
+![image](https://raw.githubusercontent.com/malindard/hr-dashboard/main/HR-Employee-Report-2.png)
 
 ## Data Description
 
